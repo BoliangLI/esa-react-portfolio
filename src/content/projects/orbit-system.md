@@ -1,5 +1,5 @@
 ---
-title: Orbit Design System
+title: ESA Pages Design System
 description: 让设计语言成为产品的共同语言。
 date: 2026-09-20
 repoURL: https://github.com/BoliangLI/esa-react-portfolio

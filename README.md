@@ -1,4 +1,4 @@
-# Orbit · Astro Nano 个人主页
+# ESA Pages · Astro Nano 个人主页
 
 基于 **Astro Nano 开源主题**，使用 Astro 7、Tailwind CSS 4 和 TypeScript。仓库继续保留 `esa-react-portfolio` 名称；实现已迁移为 Astro 静态站点。
 

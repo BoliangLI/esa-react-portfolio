@@ -1,5 +1,5 @@
 ---
-title: Neural Studio
+title: ESA Pages Studio
 description: 为创作者打造专注而轻盈的工作空间。
 date: 2026-09-20
 repoURL: https://github.com/BoliangLI/esa-react-portfolio

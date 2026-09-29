@@ -1,5 +1,5 @@
 ---
-company: Orbit Studio · 示例经历
+company: ESA Pages · 示例经历
 role: 前端工程师
 dateStart: 2021-06-01
 dateEnd: 2023-12-31

@@ -1,5 +1,5 @@
 ---
-title: Atlas Explorer
+title: ESA Pages Explorer
 description: 用交互数据探索更大的世界。
 date: 2026-09-20
 repoURL: https://github.com/BoliangLI/esa-react-portfolio
