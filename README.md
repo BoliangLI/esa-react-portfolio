@@ -27,7 +27,7 @@ npm run preview
 
 此站点有独立 HTML 页面，ESA `notFoundStrategy` 配置为 `404Page`，构建会生成 `404.html`。
 
-设置 ESA 构建环境变量 `SITE_URL` 为自己的域名，用于 canonical、RSS 和 sitemap。默认 `https://example.com` 为占位值。本地可使用 `SITE_URL=https://your-domain.example npm run build` 指定域名。
+站点域名在 `astro.config.mjs` 的 `site` 中固定配置为 `https://example.com`，用于 canonical、RSS 和 sitemap，不依赖环境变量。更换域名时直接修改该配置并运行 `npm run build`。
 
 ## 替换为自己的内容
 

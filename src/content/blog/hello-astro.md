@@ -20,4 +20,4 @@ Astro 负责静态页面生成，主题负责文章索引、作品列表、明�
 
 ## 部署到 ESA
 
-执行 `npm ci` 和 `npm run build`，将 `dist` 作为静态资源目录。设置 `SITE_URL` 为实际域名，让 RSS、sitemap 和 canonical 链接指向你的网站。
+执行 `npm ci` 和 `npm run build`，将 `dist` 作为静态资源目录。在 `astro.config.mjs` 的 `site` 中直接配置固定域名，让 RSS、sitemap 和 canonical 链接指向你的网站，无需设置环境变量。
